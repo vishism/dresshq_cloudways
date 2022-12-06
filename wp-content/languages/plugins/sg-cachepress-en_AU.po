@@ -1,0 +1,233 @@
+# Translation of Plugins - SG Optimizer - Development (trunk) in English (Australia)
+# This file is distributed under the same license as the Plugins - SG Optimizer - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-07 08:50:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - SG Optimizer - Development (trunk)\n"
+
+#: core/Options/Options.php:373
+msgid "Lazy Load for Product Images"
+msgstr "Lazy Load for Product Images"
+
+#: core/Options/Options.php:363
+msgid "Google Fonts Combination"
+msgstr "Google Fonts Combination"
+
+#: core/Options/Options.php:372
+msgid "Lazy Load for Mobile"
+msgstr "Lazy Load for Mobile"
+
+#: core/Options/Options.php:352
+msgid "Browser-Specific Caching"
+msgstr "Browser-Specific Caching"
+
+#. Author URI of the plugin
+msgid "https://www.siteground.com"
+msgstr "https://www.siteground.com"
+
+#. Plugin URI of the plugin
+msgid "https://siteground.com"
+msgstr "https://siteground.com"
+
+#: core/Front_End_Optimization/Front_End_Optimization.php:440
+msgid "others"
+msgstr "others"
+
+#: core/Options/Options.php:362
+msgid "CSS Combination"
+msgstr "CSS Combination"
+
+#: core/Options/Options.php:360
+msgid "JavaScript Async Load"
+msgstr "JavaScript Async Load"
+
+#: core/Supercacher/Supercacher.php:341
+msgid "Monthly"
+msgstr "Monthly"
+
+#: core/Options/Options.php:396
+msgid "Could not disable %s"
+msgstr "Could not disable %s"
+
+#: core/Options/Options.php:393
+msgid "Could not enable %s"
+msgstr "Could not enable %s"
+
+#: core/Options/Options.php:388
+msgid "%s Disabled"
+msgstr "%s Disabled"
+
+#: core/Options/Options.php:385
+msgid "%s Enabled"
+msgstr "%s Enabled"
+
+#: helpers/manual-translations.php:5
+msgid "Image Optimization"
+msgstr "Image Optimisation"
+
+#: helpers/manual-translations.php:4
+msgid "Frontend Optimization"
+msgstr "Front End Optimisation"
+
+#: helpers/manual-translations.php:2
+msgid "SuperCacher Settings"
+msgstr "SuperCacher Settings"
+
+#: helpers/manual-translations.php:3
+msgid "Environment Optimization"
+msgstr "Environment Optimisation"
+
+#: core/Options/Options.php:381
+msgid "Option"
+msgstr "Option"
+
+#: core/Options/Options.php:366
+msgid "New Images Optimization"
+msgstr "New Images Optimisation"
+
+#: core/Options/Options.php:377
+msgid "Can Optimize Environment"
+msgstr "Can Optimise Environment"
+
+#: core/Options/Options.php:376
+msgid "Can Optimize Images"
+msgstr "Can Optimise Images"
+
+#: core/Options/Options.php:375
+msgid "Can Optimize Frontend"
+msgstr "Can Optimise Front End"
+
+#: core/Options/Options.php:374
+msgid "Can Config SuperCacher"
+msgstr "Can Config SuperCacher"
+
+#: core/Options/Options.php:371
+msgid "Lazy Loading Widgets"
+msgstr "Lazy Loading Widgets"
+
+#: core/Options/Options.php:370
+msgid "Lazy Loading Responsive Images"
+msgstr "Lazy Loading Responsive Images"
+
+#: core/Options/Options.php:369
+msgid "Lazy Loading Thumbnails"
+msgstr "Lazy Loading Thumbnails"
+
+#: core/Options/Options.php:368
+msgid "Lazy Loading Gravatars"
+msgstr "Lazy Loading Gravatars"
+
+#: core/Options/Options.php:367
+msgid "Lazy Loading Images"
+msgstr "Lazy Loading Images"
+
+#: core/Options/Options.php:365
+msgid "Emoji Removal Filter"
+msgstr "Emoji Removal Filter"
+
+#: core/Options/Options.php:364
+msgid "Query Strings Removal"
+msgstr "Query Strings Removal"
+
+#: core/Options/Options.php:361
+msgid "CSS Minification"
+msgstr "CSS Minification"
+
+#: core/Options/Options.php:359
+msgid "JavaScript Minification"
+msgstr "JavaScript Minification"
+
+#: core/Options/Options.php:358
+msgid "HTML Minification"
+msgstr "HTML Minification"
+
+#: core/Options/Options.php:355
+msgid "Insecure Content Fix"
+msgstr "Insecure Content Fix"
+
+#: core/Options/Options.php:354
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: core/Options/Options.php:353
+msgid "Memcache"
+msgstr "Memcache"
+
+#: core/Options/Options.php:351
+msgid "Autoflush"
+msgstr "Autoflush"
+
+#: core/Rest/Rest_Helper.php:363 core/Rest/Rest_Helper.php:387
+msgid "Cannot change PHP Version"
+msgstr "Cannot change PHP Version"
+
+#: core/Rest/Rest_Helper.php:387
+msgid "PHP Version has been changed"
+msgstr "PHP Version has been changed"
+
+#: core/Rest/Rest_Helper.php:278
+msgid "Could Not Disable Memcache!"
+msgstr "Could Not Disable Memcache!"
+
+#: core/Rest/Rest_Helper.php:258 core/Rest/Rest_Helper.php:270
+msgid "Memcache Disabled!"
+msgstr "Memcache Disabled!"
+
+#: core/Rest/Rest_Helper.php:240
+msgid "Could Not Enable Memcache!"
+msgstr "Could Not Enable Memcache!"
+
+#: core/Rest/Rest_Helper.php:224
+msgid "Memcached Enabled"
+msgstr "Memcached Enabled"
+
+#: core/Rest/Rest_Helper.php:212 core/Rest/Rest_Helper.php:231
+msgid "SG Optimizer was unable to connect to the Memcached server and it was disabled. Please, check your SiteGround control panel and turn it on if disabled."
+msgstr "SG Optimizer was unable to connect to the Memcached server and it was disabled. Please, check your SiteGround control panel and turn it on if disabled."
+
+#: core/Admin/Admin.php:222
+msgid "SG Optimizer has detected that Memcached was turned off. If you want to use it, please enable it from your SiteGround control panel first."
+msgstr "SG Optimizer has detected that Memcached was turned off. If you want to use it, please enable it from your SiteGround control panel first."
+
+#: core/Modules/Modules.php:488
+msgid "<strong>Important warning from SG Optimizer plugin</strong>: We have detected that there is duplicate functionality with other plugins installed on your site: <strong>%s</strong>. Please note that having two plugins with the same functionality may actually decrease your site's performance and hurt your pages loading times so we recommend you to leave only one of the plugins active."
+msgstr "<strong>Important warning from SG Optimizer plugin</strong>: We have detected that there is duplicate functionality with other plugins installed on your site: <strong>%s</strong>. Please note that having two plugins with the same functionality may actually decrease your site's performance and hurt your pages loading times so we recommend you to leave only one of the plugins active."
+
+#: core/Options/Options.php:357
+msgid "Browser Caching"
+msgstr "Browser Caching"
+
+#: core/Modules/Modules.php:453
+msgid "<strong>Important message from SG Optimizer plugin</strong>: We have detected that there is duplicate functionality with other plugins installed on your site: <strong>%1$s</strong> and have deactivated the following functions from our plugin: <strong>%2$s</strong>. If you wish to enable them, please do that from the SG Optimizer config page."
+msgstr "<strong>Important message from SG Optimizer plugin</strong>: We have detected that there is duplicate functionality with other plugins installed on your site: <strong>%1$s</strong> and have deactivated the following functions from our plugin: <strong>%2$s</strong>. If you wish to enable them, please do that from the SG Optimizer config page."
+
+#: core/Options/Options.php:356
+msgid "GZIP Compression"
+msgstr "GZIP Compression"
+
+#. Description of the plugin
+msgid "This plugin will link your WordPress application with all the performance optimizations provided by SiteGround"
+msgstr "This plugin will link your WordPress application with all the performance optimisations provided by SiteGround"
+
+#. Plugin Name of the plugin
+#: core/Admin/Admin.php:239 core/Admin/Admin.php:240
+msgid "SG Optimizer"
+msgstr "SG Optimizer"
+
+#: core/Options/Options.php:350
+msgid "Dynamic Cache"
+msgstr "Dynamic Cache"
+
+#: core/Admin/Admin.php:303 core/Admin/Admin_Bar.php:33
+msgid "Purge SG Cache"
+msgstr "Purge SG Cache"
+
+#. Author of the plugin
+msgid "SiteGround"
+msgstr "SiteGround"

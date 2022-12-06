@@ -1,0 +1,529 @@
+# Translation of Plugins - WooCommerce Print Invoice &amp; Delivery Note - Development (trunk) in English (Australia)
+# This file is distributed under the same license as the Plugins - WooCommerce Print Invoice &amp; Delivery Note - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-02 23:26:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - WooCommerce Print Invoice &amp; Delivery Note - Development (trunk)\n"
+
+#: includes/component/faq-support/ts-faq-support.php:128
+msgid "Frequently Asked Questions for "
+msgstr "Frequently Asked Questions for "
+
+#: includes/component/tracking-data/ts-tracking.php:309
+msgid "Want to help make "
+msgstr "Want to help make "
+
+#: includes/class-woocommerce-delivery-notes.php:320
+msgid "This plugin is not useful to me."
+msgstr "This plugin is not useful to me."
+
+#: includes/class-woocommerce-delivery-notes.php:314
+msgid "The plugin is not compatible with another plugin."
+msgstr "The plugin is not compatible with another plugin."
+
+#: includes/class-woocommerce-delivery-notes.php:308
+msgid "The invoice sent through mail can't be downloaded as PDF directly."
+msgstr "The invoice sent through mail can't be downloaded as PDF directly."
+
+#: includes/class-woocommerce-delivery-notes.php:302
+msgid "I can't differentiate between Invoice, Delivery Notes & Receipt. The templates are the same. "
+msgstr "I can't differentiate between Invoice, Delivery Notes & Receipt. The templates are the same. "
+
+#: includes/component/tracking-data/ts-tracking.php:312
+msgid "No thanks"
+msgstr "No thanks"
+
+#: includes/component/tracking-data/ts-tracking.php:311
+msgid "Allow"
+msgstr "Allow"
+
+#: includes/component/tracking-data/ts-tracking.php:225
+msgid "Once in a Week"
+msgstr "Once in a Week"
+
+#: includes/component/tracking-data/ts-tracking.php:122
+msgid "This will reset your usage tracking settings, causing it to show the opt-in banner again and not sending any data"
+msgstr "This will reset your usage tracking settings, causing it to show the opt-in banner again and not sending any data"
+
+#: includes/component/tracking-data/ts-tracking.php:120
+#: includes/component/tracking-data/ts-tracking.php:180
+msgid "Reset usage tracking"
+msgstr "Reset usage tracking"
+
+#: includes/component/faq-support/ts-faq-support.php:176
+msgid "FAQ & Support"
+msgstr "FAQ & Support"
+
+#: includes/component/faq-support/ts-faq-support.php:127
+msgid "Frequently Asked Questions for %s"
+msgstr "Frequently Asked Questions for %s"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:91
+msgctxt "the text of the 'other' reason for deactivating the plugin that is shown in the modal box."
+msgid "Other"
+msgstr "Other"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:90
+msgid "I don't like to share my information with you"
+msgstr "I don't like to share my information with you"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:89
+msgid "What feature?"
+msgstr "What feature?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:88
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "The plugin is great, but I need specific feature that you don't support"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:87
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Kindly share what didn't work so we can fix it for future users&hellip;"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:86
+msgid "The plugin is not working"
+msgstr "The plugin is not working"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:85
+msgid "I only needed the plugin for a short period"
+msgstr "I only needed the plugin for a short period"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:84
+msgid "What's the plugin's name?"
+msgstr "What's the plugin's name?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:83
+msgid "I found a better plugin"
+msgstr "I found a better plugin"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:79
+msgid "Yes - Deactivate"
+msgstr "Yes - Deactivate"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:78
+msgid "Cancel"
+msgstr "Cancel"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:77
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:76
+msgid "Submit & Deactivate"
+msgstr "Submit & Deactivate"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:75
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "If you have a moment, please let us know why you are deactivating"
+
+#. translators: %s: link to faq
+#: includes/class-wcdn-settings.php:133
+msgid "The default print style. Read the <a href=\"%1$s\">FAQ</a> to learn how to customize it."
+msgstr "The default print style. Read the <a href=\"%1$s\">FAQ</a> to learn how to customise it."
+
+#. Author of the plugin
+msgid "Tyche Softwares"
+msgstr "Tyche Softwares"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.tychesoftwares.com/"
+msgstr "https://www.tychesoftwares.com/"
+
+#: includes/wcdn-template-functions.php:278
+msgid "Invoice Date"
+msgstr "Invoice Date"
+
+#: includes/class-wcdn-settings.php:470
+msgid "Remove"
+msgstr "Remove"
+
+#: includes/class-wcdn-settings.php:466
+msgid "Select"
+msgstr "Select"
+
+#. translators: %s: invoice url, delivery note url, receipt url
+#: includes/class-wcdn-settings.php:399
+msgid "This section lets you customise the content. You can preview the <a href=\"%1$s\" target=\"%4$s\" class=\"%5$s\">invoice</a>, <a href=\"%2$s\" target=\"%4$s\" class=\"%5$s\">delivery note</a> or <a href=\"%3$s\" target=\"%4$s\" class=\"%5$s\">receipt</a> template."
+msgstr "This section lets you customise the content. You can preview the <a href=\"%1$s\" target=\"%4$s\" class=\"%5$s\">invoice</a>, <a href=\"%2$s\" target=\"%4$s\" class=\"%5$s\">delivery note</a> or <a href=\"%3$s\" target=\"%4$s\" class=\"%5$s\">receipt</a> template."
+
+#: includes/class-wcdn-settings.php:356
+msgid "The print buttons are available on the order listing and on the order detail screen."
+msgstr "The print buttons are available on the order listing and on the order detail screen."
+
+#: includes/class-wcdn-settings.php:353
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/class-wcdn-settings.php:294
+msgid "Number Suffix"
+msgstr "Number Suffix"
+
+#: includes/class-wcdn-settings.php:283
+msgid "Number Prefix"
+msgstr "Number Prefix"
+
+#: includes/class-wcdn-settings.php:279
+msgid "The next invoice number."
+msgstr "The next invoice number."
+
+#: includes/class-wcdn-settings.php:272
+msgid "Next Number"
+msgstr "Next Number"
+
+#: includes/class-wcdn-settings.php:263
+msgid "Numbering"
+msgstr "Numbering"
+
+#: includes/class-wcdn-settings.php:208
+msgid "Pages & Buttons"
+msgstr "Pages & Buttons"
+
+#: includes/class-wcdn-settings.php:194
+msgid "Add a footer imprint, instructions, copyright notes, e-mail, telephone, etc."
+msgstr "Add a footer imprint, instructions, copyright notes, email, telephone, etc."
+
+#: includes/class-wcdn-settings.php:184
+msgid "Add the shop policies, conditions, etc."
+msgstr "Add shop policies, conditions, etc."
+
+#: includes/class-wcdn-settings.php:183
+msgid "Policies"
+msgstr "Policies"
+
+#: includes/class-wcdn-settings.php:174
+msgid "Add a personal close, notes or season greetings."
+msgstr "Add personal messages, notes, or season's greetings."
+
+#: includes/class-wcdn-settings.php:164
+msgid "The postal address of the shop or even e-mail or telephone."
+msgstr "The postal address of the shop or even email or telephone."
+
+#: includes/class-wcdn-settings.php:163
+msgid "Shop Address"
+msgstr "Shop Address"
+
+#: includes/class-wcdn-settings.php:153
+msgid "Shop Name"
+msgstr "Shop Name"
+
+#: includes/class-wcdn-settings.php:149
+msgid "A shop logo representing your business. When the image is printed, its pixel density will automatically be eight times higher than the original. This means, 1 printed inch will correspond to about 288 pixels on the screen."
+msgstr "A logo which represents your business. When the image is printed, its pixel density will automatically be eight times larger than the original. This means, one printed inch will correspond to approximately 288 pixels on the screen. "
+
+#: includes/class-wcdn-settings.php:143
+msgid "Shop Logo"
+msgstr "Shop Logo"
+
+#: includes/class-wcdn-settings.php:124
+msgid "Template"
+msgstr "Template"
+
+#: includes/class-wcdn-print.php:168
+msgid "Default"
+msgstr "Default"
+
+#: includes/class-wcdn-print.php:137
+msgid "Show \"Print Receipt\" button"
+msgstr "Show \"Print Receipt\" button"
+
+#: includes/class-wcdn-print.php:122
+msgid "Show \"Print Delivery Note\" button"
+msgstr "Show \"Print Delivery Note\" button"
+
+#: includes/class-wcdn-print.php:107
+msgid "Show \"Print Invoice\" button"
+msgstr "Show \"Print Invoice\" button"
+
+#. Description of the plugin
+msgid "Print Invoices & Delivery Notes for WooCommerce Orders."
+msgstr "Print Invoices & Delivery Notes for WooCommerce Orders."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Print Invoice & Delivery Note"
+msgstr "WooCommerce Print Invoice & Delivery Note"
+
+#: includes/class-woocommerce-delivery-notes.php:390
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/class-woocommerce-delivery-notes.php:390
+msgid "Go to the settings page"
+msgstr "Go to the settings page"
+
+#: includes/class-woocommerce-delivery-notes.php:118
+#: includes/class-woocommerce-delivery-notes.php:125
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; eh?"
+
+#: templates/print-order/print-content.php:243
+msgid "Customer Note"
+msgstr "Customer Note"
+
+#. translators: files count.
+#: templates/print-order/print-content.php:185
+msgid "%s Files"
+msgstr "%s Files"
+
+#: templates/print-order/print-content.php:181
+msgid "Download:"
+msgstr "Download:"
+
+#: templates/print-order/print-content.php:98
+msgid "Total"
+msgstr "Total"
+
+#: templates/print-order/print-content.php:97
+msgid "Quantity"
+msgstr "Quantity"
+
+#: templates/print-order/print-content.php:96
+msgid "Price"
+msgstr "Price"
+
+#: templates/print-order/print-content.php:95
+msgid "Product"
+msgstr "Product"
+
+#: templates/print-order/print-content.php:54
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: templates/print-order/print-content.php:44
+#: templates/print-order/print-content.php:59
+msgid "N/A"
+msgstr "N/A"
+
+#: templates/print-order/print-content.php:39
+msgid "Billing Address"
+msgstr "Billing Address"
+
+#: includes/wcdn-template-functions.php:491
+msgid "Order Subtotal"
+msgstr "Order Subtotal"
+
+#: includes/wcdn-template-functions.php:479
+msgid "Refund"
+msgstr "Refund"
+
+#. translators: %s: Taxes to delete
+#. translators: %s: Taxes to insert
+#: includes/wcdn-template-functions.php:459
+#: includes/wcdn-template-functions.php:464
+msgid "(Includes %s)"
+msgstr "(Includes %s)"
+
+#: includes/wcdn-template-functions.php:349
+msgid "SKU:"
+msgstr "SKU:"
+
+#: includes/wcdn-template-functions.php:308
+msgid "Telephone"
+msgstr "Telephone"
+
+#: includes/wcdn-template-functions.php:294
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: includes/wcdn-template-functions.php:289
+msgid "Order Date"
+msgstr "Order Date"
+
+#: includes/wcdn-template-functions.php:284
+msgid "Order Number"
+msgstr "Order Number"
+
+#: includes/wcdn-template-functions.php:271
+msgid "Invoice Number"
+msgstr "Invoice Number"
+
+#: includes/class-wcdn-writepanel.php:284
+msgid "Invoice date: "
+msgstr "Invoice date: "
+
+#: includes/class-wcdn-writepanel.php:283
+msgid "Invoice number: "
+msgstr "Invoice number: "
+
+#: includes/class-wcdn-writepanel.php:255
+msgid "Order Printing"
+msgstr "Order Printing"
+
+#: includes/class-wcdn-writepanel.php:241
+msgid "Print now"
+msgstr "Print now"
+
+#: includes/class-wcdn-theme.php:134
+msgid "Open print view in browser"
+msgstr "Open print view in browser"
+
+#: includes/class-wcdn-theme.php:134
+msgid "Print:"
+msgstr "Print:"
+
+#: includes/class-wcdn-theme.php:127
+msgid "Print your order"
+msgstr "Print your order"
+
+#: includes/class-wcdn-settings.php:301
+msgid "This text will be appended to the invoice number."
+msgstr "This text will be appended to the invoice number."
+
+#: includes/class-wcdn-settings.php:290
+msgid "This text will be prepended to the invoice number."
+msgstr "This text will be prepended to the invoice number."
+
+#: includes/class-wcdn-settings.php:264
+msgid "Create invoice numbers"
+msgstr "Create invoice numbers"
+
+#: includes/class-wcdn-settings.php:230
+msgid "This includes the emails for a new, processing and completed order. On top of that the customer invoice email also includes the link."
+msgstr "This includes the emails for a new, processing and completed order. On top of that the customer invoice email also includes the link."
+
+#: includes/class-wcdn-settings.php:226
+msgid "Show print link in customer emails"
+msgstr "Show print link in customer emails"
+
+#: includes/wcdn-template-functions.php:301
+#: includes/class-wcdn-settings.php:225
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-wcdn-settings.php:243
+msgid "Show print buttons on the \"My Account\" page"
+msgstr "Show print buttons on the \"My Account\" page"
+
+#: includes/class-wcdn-settings.php:235
+msgid "Show print button on the \"View Order\" page"
+msgstr "Show print button on the \"View Order\" page"
+
+#: includes/class-wcdn-settings.php:234
+msgid "My Account"
+msgstr "My Account"
+
+#: includes/class-wcdn-settings.php:221
+msgid "The endpoint is appended to the accounts page URL to print the order. It should be unique."
+msgstr "The endpoint is appended to the accounts page URL to print the order. It should be unique."
+
+#: includes/class-wcdn-settings.php:215
+msgid "Print Page Endpoint"
+msgstr "Print Page Endpoint"
+
+#: includes/class-wcdn-settings.php:131
+msgid "Style"
+msgstr "Style"
+
+#: includes/class-wcdn-settings.php:193
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/class-wcdn-settings.php:173
+msgid "Complimentary Close"
+msgstr "Complimentary Close"
+
+#: includes/class-wcdn-settings.php:159
+msgid "The shop name. Leave blank to use the default Website or Blog title defined in WordPress settings. The name will be ignored when a Logo is set."
+msgstr "The shop name. Leave blank to use the default Website or Blog title defined in WordPress settings. The name will be ignored when a Logo is set."
+
+#: includes/wcdn-template-functions.php:143 includes/class-wcdn-settings.php:90
+#: includes/class-wcdn-theme.php:68 includes/class-wcdn-theme.php:105
+msgid "Print"
+msgstr "Print"
+
+#: includes/class-wcdn-settings.php:80
+msgid "Do you really want to reset the counter to zero? This process can't be undone."
+msgstr "Do you really want to reset the counter to zero? This process can't be undone."
+
+#: includes/class-wcdn-print.php:153
+msgid "Print Orders"
+msgstr "Print Orders"
+
+#: includes/class-wcdn-print.php:152
+msgid "Print Order"
+msgstr "Print Order"
+
+#: includes/class-wcdn-print.php:151
+msgid "Orders"
+msgstr "Orders"
+
+#: includes/class-wcdn-print.php:150
+msgid "Order"
+msgstr "Order"
+
+#: includes/class-wcdn-print.php:136
+msgid "Receipts created."
+msgstr "Receipts created."
+
+#: includes/class-wcdn-print.php:135
+msgid "Receipt created."
+msgstr "Receipt created."
+
+#: includes/class-wcdn-print.php:134
+msgid "Print Receipts"
+msgstr "Print Receipts"
+
+#: includes/class-wcdn-print.php:133
+msgid "Print Receipt"
+msgstr "Print Receipt"
+
+#: includes/class-wcdn-print.php:132
+msgid "Receipts"
+msgstr "Receipts"
+
+#: includes/class-wcdn-print.php:131
+msgid "Receipt"
+msgstr "Receipt"
+
+#: includes/class-wcdn-print.php:121
+msgid "Delivery Notes created."
+msgstr "Delivery Notes created."
+
+#: includes/class-wcdn-print.php:120
+msgid "Delivery Note created."
+msgstr "Delivery Note created."
+
+#: includes/class-wcdn-print.php:119
+msgid "Print Delivery Notes"
+msgstr "Print Delivery Notes"
+
+#: includes/class-wcdn-print.php:118
+msgid "Print Delivery Note"
+msgstr "Print Delivery Note"
+
+#: includes/class-wcdn-print.php:117
+msgid "Delivery Notes"
+msgstr "Delivery Notes"
+
+#: includes/class-wcdn-print.php:116
+msgid "Delivery Note"
+msgstr "Delivery Note"
+
+#: includes/class-wcdn-print.php:106
+msgid "Invoices created."
+msgstr "Invoices created."
+
+#: includes/class-wcdn-print.php:105
+msgid "Invoice created."
+msgstr "Invoice created."
+
+#: includes/class-wcdn-print.php:104
+msgid "Print Invoices"
+msgstr "Print Invoices"
+
+#: includes/class-wcdn-print.php:103
+msgid "Print Invoice"
+msgstr "Print Invoice"
+
+#: includes/class-wcdn-print.php:102
+msgid "Invoices"
+msgstr "Invoices"
+
+#: includes/class-wcdn-settings.php:256 includes/class-wcdn-print.php:101
+msgid "Invoice"
+msgstr "Invoice"

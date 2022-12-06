@@ -1,0 +1,181 @@
+# Translation of Plugins - SMTP Mailer - Development (trunk) in English (Australia)
+# This file is distributed under the same license as the Plugins - SMTP Mailer - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-18 23:24:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - SMTP Mailer - Development (trunk)\n"
+
+#: main.php:361
+msgid "As of PHP 5.6 you will get a warning/error if the SSL certificate on the server is not properly configured. You can check this option to disable that default behaviour. Please note that PHP 5.6 made this change for a good reason. So you should get your host to fix the SSL configurations instead of bypassing it"
+msgstr "As of PHP 5.6 you will get a warning/error if the SSL certificate on the server is not properly configured. You can check this option to disable that default behaviour. Please note that PHP 5.6 made this change for a good reason. So you should get your host to fix the SSL configurations instead of bypassing it"
+
+#: main.php:359
+msgid "Disable SSL Certificate Verification"
+msgstr "Disable SSL Certificate Verification"
+
+#: main.php:388
+msgid "SMTP Mailer plugin cannot send email until you enter your credentials in the settings."
+msgstr "SMTP Mailer plugin cannot send email until you enter your credentials in the settings."
+
+#. Description of the plugin
+msgid "Configure a SMTP server to send email from your WordPress site"
+msgstr "Configure a SMTP server to send email from your WordPress site"
+
+#. Author of the plugin
+msgid "naa986"
+msgstr "naa986"
+
+#. Plugin URI of the plugin
+msgid "https://wphowto.net/smtp-mailer-plugin-for-wordpress-1482"
+msgstr "https://wphowto.net/smtp-mailer-plugin-for-wordpress-1482"
+
+#. Author URI of the plugin
+msgid "https://wphowto.net/"
+msgstr "https://wphowto.net/"
+
+#: main.php:353
+msgid "From Name"
+msgstr "From Name"
+
+#: main.php:368
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: main.php:343
+msgid "The port which will be used when sending an email (587/465/25). If you choose TLS it should be set to 587. For SSL use port 465 instead."
+msgstr "The port which will be used when sending an email (587/465/25). If you choose TLS it should be set to 587. For SSL use port 465 instead."
+
+#: main.php:347
+msgid "From Email Address"
+msgstr "From Email Address"
+
+#: main.php:349
+msgid "The email address which will be used as the From Address if it is not supplied to the mail function."
+msgstr "The email address which will be used as the From Address if it is not supplied to the mail function."
+
+#: main.php:355
+msgid "The name which will be used as the From Name if it is not supplied to the mail function."
+msgstr "The name which will be used as the From Name if it is not supplied to the mail function."
+
+#: main.php:166
+msgid "Send Email"
+msgstr "Send Email"
+
+#: main.php:159
+msgid "Email body"
+msgstr "Email body"
+
+#: main.php:267
+msgid "Settings Saved!"
+msgstr "Settings Saved!"
+
+#: main.php:300
+msgid "SMTP Host"
+msgstr "SMTP Host"
+
+#: main.php:302
+msgid "The SMTP server which will be used to send email. For example: smtp.gmail.com"
+msgstr "The SMTP server which will be used to send email. For example: smtp.gmail.com"
+
+#: main.php:306
+msgid "SMTP Authentication"
+msgstr "SMTP Authentication"
+
+#: main.php:309
+msgid "True"
+msgstr "True"
+
+#: main.php:310
+msgid "False"
+msgstr "False"
+
+#: main.php:312
+msgid "Whether to use SMTP Authentication when sending an email (recommended: True)."
+msgstr "Whether to use SMTP Authentication when sending an email (recommended: True)."
+
+#: main.php:317
+msgid "SMTP Username"
+msgstr "SMTP Username"
+
+#: main.php:319
+msgid "Your SMTP Username."
+msgstr "Your SMTP Username."
+
+#: main.php:323
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+#: main.php:329
+msgid "Type of Encryption"
+msgstr "Type of Encryption"
+
+#: main.php:332
+msgid "TLS"
+msgstr "TLS"
+
+#: main.php:333
+msgid "SSL"
+msgstr "SSL"
+
+#: main.php:334
+msgid "No Encryption"
+msgstr "No Encryption"
+
+#: main.php:336
+msgid "The encryption which will be used when sending an email (recommended: TLS)."
+msgstr "The encryption which will be used when sending an email (recommended: TLS)."
+
+#: main.php:341
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: main.php:157
+msgid "Message"
+msgstr "Message"
+
+#: main.php:153
+msgid "Subject of the email"
+msgstr "Subject of the email"
+
+#: main.php:79
+msgid "Server Info"
+msgstr "Server Info"
+
+#: main.php:145
+msgid "To"
+msgstr "To"
+
+#: main.php:151
+msgid "Subject"
+msgstr "Subject"
+
+#: main.php:78
+msgid "Test Email"
+msgstr "Test Email"
+
+#: main.php:82
+msgid "Please visit the <a target=\"_blank\" href=\"%s\">SMTP Mailer</a> documentation page for usage instructions."
+msgstr "Please visit the <a target=\"_blank\" href=\"%s\">SMTP Mailer</a> documentation page for usage instructions."
+
+#: main.php:147
+msgid "Email address of the recipient"
+msgstr "Email address of the recipient"
+
+#: main.php:77
+msgid "General"
+msgstr "General"
+
+#. Plugin Name of the plugin
+#: main.php:72
+msgid "SMTP Mailer"
+msgstr "SMTP Mailer"
+
+#: main.php:66
+msgid "Settings"
+msgstr "Settings"

@@ -1,0 +1,20 @@
+2022-12-01T04:31:22+00:00 CRITICAL Uncaught Error: Call to a member function is_visible() on null in /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/themes/flatsome/woocommerce/content-product.php:21
+Stack trace:
+#0 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-includes/template.php(772): require()
+#1 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php(332): wc_get_template_part()
+#3 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(110): woocommerce_get_template_part()
+#4 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-includes/template-loader.php(106): include('/home/864833.cl...')
+#5 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-blog-header.php(19): require_once('/home/864833.cl...')
+#6 /home/864833.cloudwaysapps.com/unaehqt in /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/themes/flatsome/woocommerce/content-product.php on line 21
+
+2022-12-01T04:31:26+00:00 CRITICAL Uncaught Error: Call to a member function is_visible() on null in /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/themes/flatsome/woocommerce/content-product.php:21
+Stack trace:
+#0 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-includes/template.php(772): require()
+#1 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php(332): wc_get_template_part()
+#3 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(110): woocommerce_get_template_part()
+#4 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-includes/template-loader.php(106): include('/home/864833.cl...')
+#5 /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-blog-header.php(19): require_once('/home/864833.cl...')
+#6 /home/864833.cloudwaysapps.com/unaehqt in /home/864833.cloudwaysapps.com/unaehqtpaj/public_html/wp-content/themes/flatsome/woocommerce/content-product.php on line 21
+

@@ -1,0 +1,8 @@
+[01-Aug-2020 03:03:18 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/customer/www/dresshq.com.au/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 03:03:45 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/customer/www/dresshq.com.au/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17

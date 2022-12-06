@@ -1,0 +1,263 @@
+# Copyright (C) 2020 YITH
+# This file is distributed under the same license as the YITH Product Size Charts for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Product Size Charts for WooCommerce 1.1.19\n"
+"Report-Msgid-Bugs-To: Your Inspiration Themes <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2020-04-28 09:36:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Your Inspiration Themes <info@yithemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/class.yith-wcpsc-admin.php:139
+msgid "Description"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:140
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:181
+msgid "None"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:203
+#: includes/class.yith-wcpsc-admin.php:209
+msgid "Chart Options"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:212
+msgid "Product"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:213
+msgid "Select the product in which this size chart has to be shown."
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:274
+msgid "Create your Size Chart"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:350
+msgid "Product Size Charts"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:353
+msgid "%s allows you to create custom size charts."
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:354
+msgid "Go to %s menu."
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:355 includes/class.yith-wcpsc.php:71
+msgid "Size Charts"
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:356
+msgid "Create your Size Chart and assign it to a product."
+msgstr ""
+
+#: includes/class.yith-wcpsc-admin.php:357
+msgid "It will be visible on detail page of the selected product."
+msgstr ""
+
+#: includes/class.yith-wcpsc.php:72
+msgid "Size Chart"
+msgstr ""
+
+#: includes/class.yith-wcpsc.php:73
+msgid "Add Size Chart"
+msgstr ""
+
+#: includes/class.yith-wcpsc.php:74
+msgid "New Size Chart"
+msgstr ""
+
+#: includes/class.yith-wcpsc.php:75
+msgid "Edit Size Chart"
+msgstr ""
+
+#: includes/class.yith-wcpsc.php:76
+msgid "View Size Chart"
+msgstr ""
+
+#: includes/class.yith-wcpsc.php:77
+msgid "Size Chart not found"
+msgstr ""
+
+#: includes/class.yith-wcpsc.php:78
+msgid "Size Chart not found in trash"
+msgstr ""
+
+#: init.php:47
+msgid ""
+"YITH Product Size Charts for WooCommerce is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: init.php:56
+msgid ""
+"You can't activate the free version of YITH Product Size Charts for "
+"WooCommerce while you are using the premium one."
+msgstr ""
+
+#: templates/premium.php:234 templates/premium.php:408
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Product Size Charts for "
+"WooCommerce%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/premium.php:237 templates/premium.php:411
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/premium.php:238 templates/premium.php:412
+msgid "to the premium version"
+msgstr ""
+
+#: templates/premium.php:244
+msgid "Premium Features"
+msgstr ""
+
+#: templates/premium.php:252
+msgid "More than one size chart"
+msgstr ""
+
+#: templates/premium.php:255
+msgid ""
+"Assign as many size charts as you wish to the same product: choose them "
+"directly from within the product, so that you can show your users several "
+"charts showing information in a tidy and customised way."
+msgstr ""
+
+#: templates/premium.php:265
+msgid "Display mode"
+msgstr ""
+
+#: templates/premium.php:268
+msgid ""
+"For each new size chart you can select one of the three different display "
+"modes available. You can display your chart as a %1$sWooCommerce tab%2$s, "
+"or in a modal window opening through the specific button added in product "
+"page or, finally, as a tabbed popup with two tabs, one for the chart, one "
+"for the description."
+msgstr ""
+
+#: templates/premium.php:284
+msgid "Entirely customisable popup buttons"
+msgstr ""
+
+#: templates/premium.php:287
+msgid ""
+"You can choose the position, in product page, for the %1$sbutton%2$s that "
+"will open the %1$schart popup%2$s.%3$sAnd what's more, you can also "
+"customise its colors and style as you prefer."
+msgstr ""
+
+#: templates/premium.php:297
+msgid "Popup settings "
+msgstr ""
+
+#: templates/premium.php:300
+msgid ""
+"Change the %1$sstyle of your size charts%2$s. Set colour, opening effects "
+"and graphic layout of your popup: besides the default one available, you "
+"can choose among %1$s3 premium templates%2$s for your popup and you can "
+"also edit overlay colour and opacity."
+msgstr ""
+
+#: templates/premium.php:316
+msgid "Chart style"
+msgstr ""
+
+#: templates/premium.php:319
+msgid ""
+"Give %1$syour own style to the charts%2$s.%3$sChange their colour and "
+"graphic style: choose among %1$s3 different premium templates%2$s, besides "
+"default one, which can be either used in combination with popup styles or "
+"regardless of them."
+msgstr ""
+
+#: templates/premium.php:329
+msgid "Advanced assign"
+msgstr ""
+
+#: templates/premium.php:332
+msgid ""
+"Do you want to assign one or more charts to all products belonging to the "
+"%1$ssame category%2$s or to %1$sall products in your store%2$s?%3$sThis "
+"feature has been added for you, then!%2$sAssigning a size chart to a "
+"specific category or to all products and it will be displayed on all the "
+"products you want."
+msgstr ""
+
+#: templates/premium.php:348
+msgid "Bulk Editing"
+msgstr ""
+
+#: templates/premium.php:351
+msgid ""
+"Assigning one or more size charts to more products at the same time is "
+"easy: select your products and, then, assign them the table you want using "
+"%1$sWordPress bulk editing tool%2$s."
+msgstr ""
+
+#: templates/premium.php:361
+msgid "Widget"
+msgstr ""
+
+#: templates/premium.php:364
+msgid ""
+"A way to make all your tables created in your shop stand out.%3$sWith the "
+"widget %1$s\"YITH Product Size Charts\"%2$s, you'll be able to add a list "
+"with the tables created into the sidebars of your e-commerce, so that they "
+"can be highlighted for your users."
+msgstr ""
+
+#: templates/premium.php:380
+msgid "Shortcodes, PHP code, tinyMCE"
+msgstr ""
+
+#: templates/premium.php:383
+msgid ""
+"Add your size charts easily into your e-commerce with the "
+"%1$sshortcodes%2$s available, using %1$sPHP code%2$s or using %1$stinyMCE "
+"editor%2$s."
+msgstr ""
+
+#: templates/premium.php:393
+msgid "Tab position"
+msgstr ""
+
+#: templates/premium.php:396
+msgid ""
+"After creating your customized tab, choose where you want to place it among "
+"the tabs of the %1$sproduct page%2$s. One more chance to sort the content "
+"of your page."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH Product Size Charts for WooCommerce</strong></code> "
+"allows adding a table or a detailed and customizable chart with all the "
+"information about your product sizes. Perfect to get rid of the objections "
+"about size, weight, dimension, etc. made by users when purchasing. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your "
+"e-commerce shop on <strong>YITH</strong></a>"
+msgstr ""

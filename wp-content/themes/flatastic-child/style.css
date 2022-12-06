@@ -1,0 +1,11 @@
+/**
+ * Theme Name: Flatastic Child Theme
+ * Template: flatastic
+*/
+
+/*------------------------------------------------------------------
+[Add Your Custom CSS Here] */
+
+.page_content_offset {
+	padding-bottom:30px !important;
+}

@@ -1,0 +1,2 @@
+[31-Dec-2019 02:30:50 CST6CDT] PHP Fatal error:  require(): Failed opening required 'wp-salt.php' (include_path='.:/usr/local/php71/pear') in phar:///usr/local/bin/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1197) : eval()'d code on line 38
+[31-Dec-2019 02:38:30 CST6CDT] PHP Fatal error:  require(): Failed opening required 'wp-salt.php' (include_path='.:/usr/local/php71/pear') in phar:///usr/local/bin/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1197) : eval()'d code on line 38

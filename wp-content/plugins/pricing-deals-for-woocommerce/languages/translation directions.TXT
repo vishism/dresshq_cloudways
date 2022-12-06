@@ -1,0 +1,77 @@
+----------------------------
+I. PLUGIN TRANSLATION
+----------------------------
+Summary:
+- use the PO file from Pricing Deals FREE plugin zip file:
+pricing-deals-for-woocommerce/languages/vtprd.po
+- Create your translation files
+- copy them to your server at "wp-content/plugins/pricing-deals-for-woocommerce/languages/"
+- update the wp_config.php file. Sample: (‘WPLANG’, ‘fr_FR’);
+- in wp-admin/settings/general, select your language under "Site Language"
+
+
+1. HOW TO USE PO TRANSLATION - please refer to the excellent tutorial at::
+
+https://web.archive.org/web/20150817183915/http://www.inkthemes.com/how-to-create-a-po-file-of-your-themes-i-e-translation-of-wordpress-theme-in-multiple-languages/
+
+http://betterwp.net/wordpress-tips/create-pot-file-using-poedit/
+
+use the PO file from Pricing Deals FREE plugin zip file:
+pricing-deals-for-woocommerce/languages/vtprd.po
+
+2. Look up the appropriate WPLANG name for your language, Google 'wplang [your language]'.  
+
+Also see https://wpastra.com/docs/complete-list-wordpress-locale-codes/
+
+translation file naming samples:
+
+//*England
+vtprd-en_GB.po
+vtprd-en_GB.mo
+
+//*France
+vtprd-fr_FR.po
+vtprd-fr_FR.mo
+
+//*Israel
+vtprd-he_IL.po
+vtprd-he_IL.mo
+
+
+************************************************
+************************
+
+++  The translated ** PO file ** should go to  /wp-content/plugins/pricing-deals-for-woocommerce/languages
+
+++  BE SURE to ALSO:
+*+*+*+ update the wp_config.php file. Sample: (‘WPLANG’, ‘fr_FR’);
+
+*+*+*+ in wp-admin/settings/general, select your language under "Site Language"
+
+************************
+************************************************
+
+
+---------------------------------------------------------
+II. 'Coupon: Deals' - change name / translate name
+---------------------------------------------------------  
+
+ If you choose to show the Pricing Deals discount via an auto-inserted Coupon, and
+ 
+    you want  translate/change the name of  the 'Deals' title of the auto-inserted "Coupon: Deals", 
+
+1. ADD the following wordpress filter:
+// Sample filter execution ==>>  put into your theme's functions.php file (at the BOTTOM is best), so it's not affected by plugin updates
+          function coupon_code_discount_title() {
+            return 'different coupon title';  //new coupon title
+          }
+
+          add_filter('vtprd_coupon_code_discount_title', 'coupon_code_discount_title', 10); 
+
+2. **ALSO ADD** a new Woocommerce Coupon in wp-admin/woocommerce/coupons
+Required Coupon Attributes:
+   Coupon Code => coupon title from the Wordpress Filter in (1) above
+   Coupon Type => Fixed Cart Discount
+   Coupon Amount => 0
+
+ 

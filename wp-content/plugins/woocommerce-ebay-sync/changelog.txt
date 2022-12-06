@@ -1,0 +1,18 @@
+*** WooCommerce eBay Sync Changelog ***
+
+2016.12.22 - version 1.8.0
+ * Fix update code.
+
+2016.12.20 - version 1.7.0
+ * Log clean-up.
+
+2016.12.01 - version 1.6.0
+ * Better content filtering.
+ * Bulk toggle visibility.
+ * Fixes for variants.
+
+2016.11.22 - version 1.4.0
+ * Same release as previous.
+
+2016.11.09 - version 1.0.0
+ * First Release.

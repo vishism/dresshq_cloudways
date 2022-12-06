@@ -1,0 +1,120 @@
+/* Popup container - can be anything you want */
+
+.rm-email-popup-wrap {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  z-index: 9999;
+}
+
+/* The actual popup */
+
+.rm-email-popup-wrap .rm-email-popup {
+  width: 300px;
+  background-color: #fff;
+  color: #555;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 5px;
+  position: absolute;
+  z-index: 1;
+  top: 20px;
+  left: 0;
+  margin-left: -200px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
+  box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
+}
+
+@media only screen and (max-width: 768px) {
+  .rm-email-popup-wrap .rm-email-popup {
+    width: 200px;
+    margin-left: -180px;
+  }
+}
+
+/* Popup arrow */
+
+.rm-email-popup-wrap .rm-email-popup::after {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  margin-left: -5px;
+  background-image: url("../images/yop-arrow.png");
+  background-repeat: no-repeat;
+  z-index: 222222;
+  width: 25px;
+  height: 8px;
+}
+
+h3.rm-email-popup-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  background-color: #fff;
+  border-bottom: 1px solid #f2f2f2;
+  padding-bottom: 5px;
+  border-radius: 5px 5px 0 0;
+}
+
+.rm-email-popup .input-container {
+  width: 100%;
+  margin-bottom: 1px;
+  align-items: center;
+}
+
+.rm-email-popup .input-container .input-field {
+  width: 100%!important;
+  padding: 5px 10px;
+  outline: none;
+  display: block;
+  margin: 5px auto;
+  border-radius: 6px;
+  background: transparent;
+  border: 1px solid #d2d6dc;
+  border-radius: .3rem;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 5%);
+  font-size: 15px;
+  padding-left: .7em;
+  padding-right: .7em;
+}
+
+.rm-email-popup .input-container .input-field:focus {
+  outline: 2px solid #d2d6dc;
+  outline-offset: -2px;
+}
+
+.rm-email-popup>input {
+  width: 100%!important;
+}
+
+.rm-email-popup-wrap .bottom_text {
+  display: flex;
+  justify-content: space-between;
+  font-size: 95%;
+}
+
+a.rm-email-popup-dismiss {
+  padding-left: 5px;
+  color: #555;
+}
+
+a.rm-email-popup-continue {
+  padding-right: 5px;
+  color: #555;
+}
+
+.rm-email-popup-opt-in {
+  border-top: 1px solid #f2f2f2;
+  padding-top: 5px;
+  margin-top: 5px;
+  font-size: 65%;
+  text-align: initial;
+}

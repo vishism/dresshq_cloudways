@@ -1,0 +1,98 @@
+[11-Jan-2020 04:33:49 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[11-Jan-2020 04:33:49 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[11-Jan-2020 04:33:51 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[12-Jan-2020 08:58:16 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[12-Jan-2020 08:58:16 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[12-Jan-2020 08:58:17 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[16-Jan-2020 18:49:57 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[16-Jan-2020 18:49:57 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[16-Jan-2020 18:49:59 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[20-Jan-2020 19:25:40 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[20-Jan-2020 19:25:40 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[20-Jan-2020 19:25:42 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[03-Feb-2020 02:11:20 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[03-Feb-2020 02:11:20 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[03-Feb-2020 02:11:21 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[06-Feb-2020 02:28:35 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[06-Feb-2020 02:28:35 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[06-Feb-2020 02:28:38 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[20-Feb-2020 09:39:00 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[20-Feb-2020 09:39:00 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[20-Feb-2020 09:39:01 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[24-Feb-2020 22:43:07 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[24-Feb-2020 22:43:07 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[24-Feb-2020 22:43:10 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[25-Feb-2020 15:48:24 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[25-Feb-2020 15:48:24 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[25-Feb-2020 15:48:27 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[27-Feb-2020 18:14:35 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[27-Feb-2020 18:14:35 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[27-Feb-2020 18:14:38 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[28-Feb-2020 08:28:11 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[28-Feb-2020 08:28:11 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[28-Feb-2020 08:28:14 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[11-Mar-2020 06:15:40 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[11-Mar-2020 06:15:40 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[11-Mar-2020 06:15:42 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[19-Mar-2020 11:41:14 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[19-Mar-2020 11:41:14 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[19-Mar-2020 11:41:16 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177
+[08-Apr-2020 14:10:16 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[08-Apr-2020 14:10:16 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/customer/www/dresshq.com.au/public_html/wp-content/wflogs/config.php
+[08-Apr-2020 14:10:19 UTC] PHP Fatal error:  Uncaught YITH_WCWL_Exception: The product is already in the wishlist! in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php:177
+Stack trace:
+#0 /home/customer/www/dresshq.com.au/public_html/wp-content/themes/flatastic/inc/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php(44): YITH_WCWL->add()
+#1 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 177

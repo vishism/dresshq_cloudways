@@ -1,0 +1,1 @@
+/*CSS FIX - admin UI screen, removes 'floating' attribute for publish box -  after Gutenberg prompted multiple themes to screw things up for me, dependent on filter execution.*/ div#submitdiv {position: relative !important;}            

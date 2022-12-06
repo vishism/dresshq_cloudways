@@ -1,0 +1,32 @@
+[30-Jul-2020 11:30:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php on line 8
+[30-Jul-2020 11:30:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php on line 8
+[30-Jul-2020 11:30:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php on line 8
+[30-Jul-2020 11:30:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/feed-atom-comments.php on line 8
+[30-Jul-2020 19:13:09 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 08:33:22 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 08:33:41 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 08:33:44 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/dresshq.com.au/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
